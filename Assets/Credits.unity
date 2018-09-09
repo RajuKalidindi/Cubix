@@ -263,7 +263,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Rishi
+  m_Text: Raju Kalidindi
 --- !u!222 &816136458
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -726,7 +726,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Made By:'
+  m_Text: 'Made By: '
 --- !u!222 &1878260006
 CanvasRenderer:
   m_ObjectHideFlags: 0
